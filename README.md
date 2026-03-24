@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Shashank Shrestha
 
-**Full Stack Engineer · AI/Agentic Workflows · Security Enthusiast**
+**Software Engineer · AI/Agentic Workflows · Security Enthusiast**
 
 I turn caffeine into code and vague requirements into polished products.  
 Currently building tools that automate the parts of job hunting nobody enjoys.
@@ -34,10 +34,9 @@ AI-powered automation, agentic workflows with Claude + MCP servers, and making j
 
 ### 📖 Background
 
-- 🎓 MS Computer Science — Campbellsville University (4.0 GPA)
-- 🎓 BS Computer Science — Texas Tech University (3.94 GPA)
-- 💼 Previously: Software Engineer @ Paycom (Nov 2021 – Feb 2026)
-
+- 🎓 MS Computer Science — Campbellsville University 
+- 🎓 BS Computer Science — Texas Tech University 
+- 💼 Previously: Software Engineer @ Paycom 
 ---
 
 ### 👯 Open to collaborate on
@@ -48,6 +47,7 @@ Full stack projects, AI/agentic tools, CTF writeups, or anything that sounds lik
 
 ### 📫 Reach me
 
+[![Website](https://img.shields.io/badge/Website-shashank--stha.vercel.app-black?style=flat&logo=vercel)](https://shashank-stha.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shashank--shrestha-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shashank-shrestha/)
 [![Email](https://img.shields.io/badge/Email-shashank.stha7%40gmail.com-red?style=flat&logo=gmail)](mailto:shashank.stha7@gmail.com)
 
