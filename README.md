@@ -60,5 +60,3 @@ Full stack projects, AI/agentic tools, CTF writeups, or anything that sounds lik
 - Yes, I've tried to hack my own website. It held up. Mostly.
 
 ---
-
-![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=shresthashashank&show_icons=true&theme=great-gatsby)
