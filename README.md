@@ -15,8 +15,9 @@ Currently building tools that automate the parts of job hunting nobody enjoys.
 
 ---
 
-### 🔭 What I'm building
+### 🔭 Some of my recent projects
 
+- **[Streamfinder](https://streamfinders.vercel.app)** — AI-powered streaming discovery app. Pick by mood, ask in plain English, or let it surprise you — it finds what to watch and where to stream it across every platform.
 - **[HireSignal](https://frontend-production-b8d0.up.railway.app/)** — Scrapes 9+ job boards, scores listings against your resume with AI, and generates tailored applications. Because applying to 200 jobs manually is a full-time job.
 - **[JobDork](https://jobdork.vercel.app/)** — Google Dork your next job. Uses `site:` operators to search 12+ job boards through Google, bypassing their terrible built-in search.
 
