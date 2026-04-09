@@ -4,7 +4,7 @@
 
 <br/>
 
-I build things that work , **AI agents** that automate the boring stuff,<br/>
+I build things that work, **AI agents** that automate the boring stuff,<br/>
 **full-stack products** people actually use, and **security tools** that keep them safe.<br/>
 
 <br/><br/>
